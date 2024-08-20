@@ -3,7 +3,7 @@ Adding Irish unit names to HOI 4
 
 ## About / Faoi
 
-I play HOI 4 a lot as Ireland (because I _am_ Irish). The game uses English names for divisions, and I decided to change this. There is also one ship name that repeatedly bugs me: "LE Maev". It should either be "LE Maeve" or "LE Maebh"!
+I play Hearts of Iron 4 a lot as Ireland (because I _am_ Irish). The game uses English names for divisions, and I decided to change this. There is also one ship name that repeatedly bugs me: "LE Maev". It should either be "LE Maeve" or "LE Maebh"!
 
 ----
 
