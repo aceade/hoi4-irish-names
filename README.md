@@ -5,6 +5,8 @@ Adding Irish unit names to HOI 4
 
 I play HOI 4 a lot as Ireland (because I _am_ Irish). The game uses English names for divisions, and I decided to change this. There is also one ship name that repeatedly bugs me: "LE Maev". It should either be "LE Maeve" or "LE Maebh"!
 
+----
+
 Imrím HOI 4 mar Éireann go minic (toisc gur Éireannach mé). Cuireann an cluiche ainmneacha Béarla ar rannáin, agus chinn mé é seo a athrú. Tá ainm bhád a bhíonn ag cur isteach orm freisin: “LE Maev”. As Béarla, ba cheart gur "LE Maeve" nó “LE Maebh” a bheadh uirthi!
 
 Is féidir liom focloir.ie nó Google Translate a úsáid, ach níl mé líofa sa teanga – má bhfeiceann tú botún, abair liom!
