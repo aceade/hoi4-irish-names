@@ -3,5 +3,7 @@ tags={
 	"Graphics"
 }
 name="Irish Language Names"
-supported_version="1.14.7"
-dependencies={}
+"dependencies"={
+}
+supported_version="1.14.*"
+remote_file_id="3313586868"
