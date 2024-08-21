@@ -3,7 +3,7 @@ version="0.0.3"
 tags={
 	"Graphics"
 }
-picture="thumbnail.jpg"
+picture="thumbnail.png"
 "dependencies"={
 }
 supported_version="1.14.*"
