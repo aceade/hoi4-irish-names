@@ -1,9 +1,9 @@
-version="0.0.2"
+name="Irish Language Names"
+version="0.0.3"
 tags={
 	"Graphics"
 }
 picture="thumbnail.jpg"
-name="Irish Language Names"
 "dependencies"={
 }
 supported_version="1.14.*"
