@@ -16,3 +16,7 @@ Is féidir liom focloir.ie nó Google Translate a úsáid, ach níl mé líofa s
 This is *NOT* compatible with Ironman yet, nor does it work with The Road to 56, but I plan to fix those issues.
 
 Ní oibríonn an _mod_ seo ar mód _Ironman_ nó in aice leis The Road To 56 fós, ach tá plean agam iad sin a dhéanamh.
+
+## Where to get it / Cá bhfuil sé?
+
+Steam: https://steamcommunity.com/sharedfiles/filedetails/?id=3313586868&result=1
