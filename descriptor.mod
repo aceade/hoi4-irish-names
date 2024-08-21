@@ -2,6 +2,7 @@ version="0.0.2"
 tags={
 	"Graphics"
 }
+picture="thumbnail.jpg"
 name="Irish Language Names"
 "dependencies"={
 }
