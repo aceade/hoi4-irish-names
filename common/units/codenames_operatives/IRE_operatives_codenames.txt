@@ -7,25 +7,15 @@ GENERIC_ENG_OPERATIVE_CODENAME_HISTORICAL = {
 
 	type = codename
 
-	fallback_name = "Agent %d"
+	fallback_name = "Gníomhaire %d"
 
 	unique = {
 		"Mac Tíre"
 		"Cúchulainn"
-		"Hawk"
-		"Eagle"
-		"Snake"
-		"Bear"
-		"Tiger"
-		"Condor"
-		"Magpie"
-		"Turtle"
-		"Shark"
-		"Mouse"
-		"Hornet"
-		"Dragon"
-		"Butterfly"
-		"Stallion"
-		"Tomcat"
+		"Nathair"
+		"Portán"
+		"Fomor"
+		"Luch"
+		"Oilliphéist"
 	}
 }

@@ -1,0 +1,103 @@
+IRE = {
+	fleet_names_template = FLEET_NAME_IRE
+	
+
+	air_wing_names_template = AIR_WING_NAME_IRE_FALLBACK
+
+	#Air wings can only be named through archetype
+	small_plane_airframe = {
+		prefix = ""
+		generic = { "Grúpa Trodaire" }
+		generic_pattern = AIR_WING_NAME_IRE_GENERIC
+		unique = {
+		}	
+	}
+
+	medium_plane_scout_plane_airframe = {
+		prefix = ""
+		generic = { "Observation Group" }
+		generic_pattern = AIR_WING_NAME_IRE_GENERIC
+		unique = {
+		}	
+	}
+
+	medium_plane_fighter_airframe = {
+		prefix = ""
+		generic = { "Grúpa Trodaire" }
+		generic_pattern = AIR_WING_NAME_IRE_GENERIC
+		unique = {
+		}	
+	}
+
+	small_plane_cas_airframe = {
+		prefix = ""
+		generic = { "Grúpa Ionsaí" }
+		generic_pattern = AIR_WING_NAME_IRE_GENERIC
+		unique = {
+		}	
+	}
+
+	cv_small_plane_airframe = {
+		prefix = ""
+		generic = { "Sciathán Long Trodaire" }
+		generic_pattern = AIR_WING_NAME_IRE_CARRIER
+		unique = {
+		}	
+	}
+
+	cv_small_plane_cas_airframe = {
+		prefix = ""
+		generic = { "Sciathán Long Ionsaí" }
+		generic_pattern = AIR_WING_NAME_IRE_CARRIER
+		unique = {
+		}	
+	}
+	cv_small_plane_naval_bomber_airframe = {
+		prefix = ""
+		generic = { "Sciathán Long Buamála" }
+		generic_pattern = AIR_WING_NAME_IRE_CARRIER
+		unique = {
+		}	
+	}
+
+	medium_plane_airframe = {
+		prefix = ""
+		generic = { "Grúpa Buamála" }
+		generic_pattern = AIR_WING_NAME_IRE_GENERIC
+		unique = {
+		}	
+	}
+
+	small_plane_naval_bomber_airframe = {
+		prefix = ""
+		generic = { "Grúpa Buamála Ar Muir" }
+		generic_pattern = AIR_WING_NAME_IRE_CARRIER
+		unique = {
+		}	
+	}
+
+	large_plane_airframe = {
+		prefix = ""
+		generic = { "Grúpa Buamála Ard" }
+		generic_pattern = AIR_WING_NAME_IRE_GENERIC
+		unique = {
+		}	
+	}
+
+	large_plane_maritime_patrol_plane_airframe = {
+		prefix = ""
+		generic = { "Grúpa Buamála Ar Muir" }
+		generic_pattern = AIR_WING_NAME_IRE_CARRIER
+		unique = {
+		}	
+	}
+
+
+	transport_plane_equipment = {
+		prefix = ""
+		generic = { "Grúpa Iompróir" }
+		generic_pattern = AIR_WING_NAME_IRE_GENERIC
+		unique = {
+		}	
+	}
+}
